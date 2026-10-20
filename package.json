@@ -1,0 +1,1 @@
+{"name":"angodate","version":"1.0.0","description":"App de namoro em Angola para estrangeiros","main":"server.js","scripts":{"start":"node server.js","test":"node test.js"},"license":"GPL-3.0"}
